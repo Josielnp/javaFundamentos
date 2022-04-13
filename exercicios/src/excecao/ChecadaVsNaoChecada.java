@@ -9,9 +9,7 @@ public class ChecadaVsNaoChecada {
 			System.out.println(e.getMessage());
 			
 		}
-		
-		
-		
+				
 		try {
 			geraErro2();
 		} catch (Throwable e) {
@@ -19,7 +17,6 @@ public class ChecadaVsNaoChecada {
 		}
 		
 		System.out.println("Fim :)");
-		
 		
 	}
 	
